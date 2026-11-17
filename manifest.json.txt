@@ -1,0 +1,22 @@
+{
+  "name": "CAMPUS CART - UCC Marketplace",
+  "short_name": "CAMPUSCART",
+  "description": "Buy local. Sell boldly. UCC Marketplace",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#102b55",
+  "theme_color": "#102b55",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
